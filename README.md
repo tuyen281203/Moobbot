@@ -1,20 +1,20 @@
 # 💫About Me :
-Hi, I'm Tam 👋
+Hi, I'm Tuyên 👋
 
-I'm a Web Developer
+I'm a fullstack developer
 
 👀 I am seeking an internship
 
 🌱 I'm currently studying for a engineer degree in Information Technology at the Thuy Loi University
 
-📫 My email: ngotamqn01@gmail.com
+📫 My email: tuyenototl@gmail.com
 
 🤗 Pronouns: He/His
 
 ⚡ Fun fact: I quite like orange
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/TamNgoMb) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/den281203) 
 
 # 📋 Programming languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,7 +30,7 @@ I'm a Web Developer
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Moobbot&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tuyen281203&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moobbot&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moobbot&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
